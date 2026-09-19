@@ -83,7 +83,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone YOUR_GITHUB_REPOSITORY_URL 
 ```
 
 ### 2. Navigate to the project directory
@@ -96,6 +96,11 @@ cd NexusFlow-Landing
 
 ```bash
 npm install
+```
+### 4. Install tailwind css
+
+```bash
+npm install tailwindcss @tailwindcss/vite
 ```
 
 ### 4. Start the development server
